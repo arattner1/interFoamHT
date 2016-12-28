@@ -1,0 +1,3 @@
+interThermalFoam1.C
+
+EXE = $(FOAM_APPBIN)/interThermalFoam1
